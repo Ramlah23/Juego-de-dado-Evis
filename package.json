@@ -1,0 +1,22 @@
+{
+  "name": "juego-de-dado-evis",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "react-dom": "^18.3.1",
+    "react-icon": "^1.0.0",
+    "react-icons": "^5.2.1",
+    "solid-js": "^1.8.18"
+  },
+  "devDependencies": {
+    "vite": "^5.3.4",
+    "vite-plugin-solid": "^2.10.2"
+  }
+}
