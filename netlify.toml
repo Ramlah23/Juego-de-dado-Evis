@@ -1,0 +1,2 @@
+[build]
+  publish = "build"  # Ajusta la ruta según tu proyecto
